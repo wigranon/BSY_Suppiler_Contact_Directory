@@ -1,0 +1,22 @@
+{
+  "name": "BSY Suppiler Contact",
+  "short_name": "Suppiler Contacts",
+  "description": "ระบบสมุดโทรศัพท์ร้านค้า",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#2c5364",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/wigranon/images/443a565957f46e9a56ca8a97b70ca30a2fd11619/BSY%20Logo192x192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/wigranon/images/443a565957f46e9a56ca8a97b70ca30a2fd11619/BSY%20Logo%20512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
